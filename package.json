@@ -1,0 +1,24 @@
+{
+  "name": "vim-mode-plus-patch-switch-ime",
+  "main": "./lib/vim-mode-plus-patch-switch-ime",
+  "version": "0.0.1",
+  "description": "A patch for vim-mode-plus, fix bug the key triggers the input method when not in insert mode",
+  "keywords": [
+      "vim-mode",
+      "ime"
+  ],
+  "repository": "https://github.com/frapples/vim-mode-plus-patch-switch-ime",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "consumedServices": {
+    "vim-mode-plus": {
+      "versions": {
+        "^0.1.0": "consumeVim"
+      }
+    }
+},
+  "dependencies": {
+  }
+}
