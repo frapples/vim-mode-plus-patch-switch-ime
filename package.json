@@ -1,7 +1,7 @@
 {
   "name": "vim-mode-plus-patch-switch-ime",
   "main": "./lib/vim-mode-plus-patch-switch-ime",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A patch for vim-mode-plus, fix bug the key triggers the input method when not in insert mode",
   "keywords": [
     "vim-mode",
