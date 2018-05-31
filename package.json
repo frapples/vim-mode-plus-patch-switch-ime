@@ -1,7 +1,7 @@
 {
   "name": "vim-mode-plus-patch-switch-ime",
   "main": "./lib/vim-mode-plus-patch-switch-ime",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Deprecated - Vim-mode-plus has integrated the patch",
   "keywords": [
     "vim-mode",
