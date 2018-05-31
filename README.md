@@ -1,6 +1,10 @@
 
 [README_CN.md 简体中文](https://github.com/frapples/vim-mode-plus-patch-switch-ime/blob/master/README_CN.md)
 
+Warning: Deprecated. Vim-mode-plus has integrated the patch.
+
+From vim-mode-plus's settings-view set `autoDisableInputMethodWhenLeavingInsertMode` to true(default false).
+
 ## Introduction
 This is a patch for vim-mode-plus.
  In insert mode, for people who are not native speakers of English, the typed characters are not typed into the buffer immediately, they trigger the input method.

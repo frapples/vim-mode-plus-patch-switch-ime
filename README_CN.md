@@ -1,3 +1,8 @@
+
+警告：此扩展已经过时。vim-mode-plus已经集成了该功能。
+在vim-mode-plus的设置中，将`autoDisableInputMethodWhenLeavingInsertMode`设置为true即可。
+
+
 ## 介绍
 用过类vim编辑器的中文用户（如vim，spacemacs等）应该都知道，这些编辑器都存在一个输入法问题。
 在插入模式下打开中文输入法输入，然后按ESC切回普通模式，这时如果按下j键k键什么的，会触发输入法，导致vim普通模式的命令无法执行。
